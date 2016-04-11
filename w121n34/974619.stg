@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Communications/radio-medium.xml -120.229167 34.471667 -181.8 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -120.083889 34.468889 3.66 180
+OBJECT_SHARED Models/Industrial/oilrig10.xml -120.168702 34.377688 -7.36 99
+OBJECT_SHARED Models/Industrial/oilrig10.xml -120.121386 34.391305 -0.03 136
