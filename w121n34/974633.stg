@@ -1,0 +1,7 @@
+OBJECT_SHARED Models/Airport/ils.xml -120.599736 34.749675 75.36 223.52
+OBJECT_SHARED Models/Airport/ils.xml -120.571364 34.724075 106.23 43.5
+OBJECT_SHARED Models/Airport/tacan.xml -120.583056 34.73255 95.68 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -120.551667 34.662222 -49.29 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -120.526444 34.732278 -48.03 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -120.511944 34.646389 -106.76 180
+OBJECT_SHARED Models/Airport/localizer.xml -120.564036 34.719681 114.31 226.68
