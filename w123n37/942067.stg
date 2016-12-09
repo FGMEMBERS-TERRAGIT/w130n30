@@ -188,3 +188,4 @@ OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -122.246065 37.783484 0 
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -122.245582 37.782605 0 113.47
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -122.223579 37.758804 0.37 77.47
 OBJECT_STATIC oraclearena.ac -122.202929 37.750255 1.94 0
+OBJECT_STATIC USA_CA_Oakland_MormonTemple.ac -122.198791 37.807558 188.93 85
