@@ -25,7 +25,6 @@ OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml -122.413611 37.792222 
 OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml -122.409167 37.788056 -352.92 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml -122.408333 37.789722 -363.28 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml -122.395 37.791944 -336.76 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml -122.392222 37.786111 -376.04 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml -122.270556 37.803056 -365.14 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml -122.270556 37.803889 -395.95 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml -122.268889 37.805556 -386.04 180
@@ -213,3 +212,6 @@ OBJECT_STATIC mac-kesson-plaza-fb.xml -122.4027484 37.78886458 11.23 100
 OBJECT_STATIC russ-bld-fb.xml -122.4026859 37.79149423 9.06 100
 OBJECT_STATIC telesis-tower-fb.xml -122.4033578 37.78924943 12.95 100
 OBJECT_STATIC transamerica-fb.xml -122.4027781 37.79521298 4.64 100
+OBJECT_STATIC USA_CA_Oakland_FederalBldg.xml -122.274822 37.8049 11.43 154
+OBJECT_STATIC USA_CA_Oakland_555CityCenter.ac -122.275883 37.803721 11.06 334
+OBJECT_STATIC onerinconhill2_sanfrancisco.ac -122.392007 37.7864174 22.26 40.21

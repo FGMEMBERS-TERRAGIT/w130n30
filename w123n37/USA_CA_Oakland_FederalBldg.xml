@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PropertyList>
+<path>USA_CA_Oakland_FederalBldg.ac</path>
+<model>
+<path>Models/Effects/RedLight10000.xml</path>
+	<offsets>
+	<x-m>-37.</x-m>
+	<y-m>0.</y-m>
+	<z-m>112.</z-m>
+	<pitch-deg>0.00</pitch-deg>
+	<heading-deg>0.00</heading-deg>
+	</offsets>
+</model>
+<model>
+<path>Models/Effects/RedLight10000.xml</path>
+	<offsets>
+	<x-m>37.</x-m>
+	<y-m>0.</y-m>
+	<z-m>112.</z-m>
+	<pitch-deg>0.00</pitch-deg>
+	<heading-deg>0.00</heading-deg>
+	</offsets>
+</model>
+</PropertyList>
