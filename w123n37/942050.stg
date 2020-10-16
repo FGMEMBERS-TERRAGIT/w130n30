@@ -33,7 +33,6 @@ OBJECT_SHARED Models/Commercial/generic_skyscraper_02.ac -122.370556 37.602222 -
 OBJECT_SHARED Models/Commercial/generic_skyscraper_03.ac -122.343056 37.59 -445.23 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_04.ac -122.256667 37.524444 -477.38 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac -122.251667 37.5825 -0.6 180
-OBJECT_SHARED Models/Aircraft/737-static.ac -122.3686451 37.6151875 2.37 330
 OBJECT_SHARED Models/Airport/apt-light.xml -122.39804 37.61994 4.49 180
 OBJECT_SHARED Models/Airport/apt-light.xml -122.39789 37.6195 4.6 180
 OBJECT_SHARED Models/Airport/apt-light.xml -122.39774 37.61905 4.72 180
