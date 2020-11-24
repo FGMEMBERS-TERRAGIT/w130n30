@@ -82,3 +82,17 @@ OBJECT_SHARED Models/Airport/hanger-t-single-white-02.xml -120.51113666 37.28761
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -120.51337128 37.28703803 46.3 272
 OBJECT_SHARED Models/Commercial/small-glass-office-building.ac -120.51729513 37.29081828 46 0
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_green_dark.xml -120.51530444 37.28916787 -128.97 8
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -120.56060 37.36359 0.00 38.83
+OBJECT_SHARED Models/lib/fboModern1.ac -120.56031 37.36367 54.47 308.83
+OBJECT_SHARED Models/lib/LgMaint.ac -120.57064 37.37412 52.39 218.83
+OBJECT_SHARED Models/lib/LgMaint.ac -120.57133 37.37480 54.33 218.83
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -120.56583 37.36870 55.60 128.83
+OBJECT_SHARED Models/lib/office112x50.ac -120.56391 37.36453 53.28 218.86
+OBJECT_SHARED Models/lib/LgMaint.ac -120.56144 37.36677 52.46 308.83
+OBJECT_SHARED Models/lib/LgMaint.ac -120.56342 37.36506 52.96 308.83
+OBJECT_SHARED Models/lib/LgMaint.ac -120.56746 37.36695 52.62 128.83
+OBJECT_SHARED Models/lib/LgMaint.ac -120.56650 37.36759 52.93 128.83
+# END dsf2stg

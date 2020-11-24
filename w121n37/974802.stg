@@ -85,3 +85,8 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -120.251924 37.358977 106.06 314
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -120.251834 37.344705 94.2 229.72
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -120.251781 37.351199 94.02 271.11
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -120.251592 37.344932 94.32 250.55
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -120.48650 37.29663 46.00 180
+# END dsf2stg

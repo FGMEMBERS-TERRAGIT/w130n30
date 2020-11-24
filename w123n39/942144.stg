@@ -56,3 +56,14 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -122.760613 39.079543 859.72 320
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -122.756583 39.077851 889.25 309.16
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -122.755861 39.075985 895.93 292.28
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -122.750828 39.068585 883.16 297.31
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -122.79731 39.00272 0.00 55.71
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -122.79745 39.00280 405.00 54.29
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -122.79762 39.00292 405.00 44.53
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -122.79788 39.00310 406.71 37.63
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -122.79798 39.00319 405.54 38.99
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -122.80428 39.01978 405.31 175.35
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -122.79091 39.01019 404.88 131.74
+# END dsf2stg
